@@ -26,9 +26,7 @@ function speedDetector(){
 
 }
 
-let result = speedDetector();
-console.log(result);
-
+console.log(speedDetector())
 
 
 
